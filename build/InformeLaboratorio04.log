@@ -1,0 +1,707 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.9)  2 JAN 2021 14:07
+entering extended mode
+**./InformeLaboratorio04.tex
+(InformeLaboratorio04.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count176
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count177
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks19
+
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count181
+\float@exts=\toks20
+\float@box=\box45
+\@float@everytoks=\toks21
+\@floatcapt=\box46
+)
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen146
+))
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+)
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks23
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks24
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks25
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+("C:\Program Files\MiKTeX\tex/latex/oberdiek\stackrel.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) ("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\KATHERIN\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count194
+\multirow@dima=\skip53
+\bigstrutjot=\dimen155
+)
+("C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+)
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box49
+)
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD III\Lab 01\build\Inf
+ormeLaboratorio04.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD III\Lab 01\build\sec
+tions/Task01.aux"))
+\openout1 = `InformeLaboratorio04.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen156
+\scratchbox=\box50
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen157
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks29
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./images/logo.jpg, id=1, 401.5pt x 269.005pt>
+File: ./images/logo.jpg Graphic file (type jpg)
+<use ./images/logo.jpg>
+Package pdftex.def Info: ./images/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 199.16928pt x 133.44725pt.
+[1
+
+{C:/Users/KATHERIN/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images/log
+o.jpg>]
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD III\Lab 01\build\Inf
+ormeLaboratorio04.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `InformeLaboratorio04.toc'.
+
+ [1]
+\openout2 = `sections/Task01.aux'.
+
+ (sections/Task01.tex
+<images/40.png, id=11, 153.57375pt x 219.82124pt>
+File: images/40.png Graphic file (type png)
+<use images/40.png>
+Package pdftex.def Info: images/40.png  used on input line 5.
+(pdftex.def)             Requested size: 500.484pt x 716.4264pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 5--6
+ []  
+ []
+
+[1
+
+]
+Overfull \vbox (35.26743pt too high) has occurred while \output is active []
+
+
+[2 <./images/40.png>]
+<images/8.png, id=21, 983.92593pt x 444.91219pt>
+File: images/8.png Graphic file (type png)
+<use images/8.png>
+Package pdftex.def Info: images/8.png  used on input line 10.
+(pdftex.def)             Requested size: 500.484pt x 226.31157pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 10--11
+ []  
+ []
+
+<images/9.png, id=22, 968.11688pt x 485.56406pt>
+File: images/9.png Graphic file (type png)
+<use images/9.png>
+Package pdftex.def Info: images/9.png  used on input line 15.
+(pdftex.def)             Requested size: 500.484pt x 251.02034pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 15--16
+ []  
+ []
+
+[3 <./images/8.png>]
+<images/41.png, id=27, 635.37375pt x 213.79875pt>
+File: images/41.png Graphic file (type png)
+<use images/41.png>
+Package pdftex.def Info: images/41.png  used on input line 20.
+(pdftex.def)             Requested size: 500.484pt x 168.41632pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 20--21
+ []  
+ []
+
+<images/22.png, id=28, 885.3075pt x 401.24907pt>
+File: images/22.png Graphic file (type png)
+<use images/22.png>
+Package pdftex.def Info: images/22.png  used on input line 25.
+(pdftex.def)             Requested size: 500.484pt x 226.84084pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 25--26
+ []  
+ []
+
+[4 <./images/9.png> <./images/41.png>]
+<images/23.png, id=34, 886.06032pt x 404.26031pt>
+File: images/23.png Graphic file (type png)
+<use images/23.png>
+Package pdftex.def Info: images/23.png  used on input line 30.
+(pdftex.def)             Requested size: 500.484pt x 228.34581pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 30--31
+ []  
+ []
+
+<images/24.png, id=35, 889.82437pt x 405.76593pt>
+File: images/24.png Graphic file (type png)
+<use images/24.png>
+Package pdftex.def Info: images/24.png  used on input line 35.
+(pdftex.def)             Requested size: 500.484pt x 228.2242pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 35--36
+ [] 
+ []
+
+[5 <./images/22.png> <./images/23.png>]
+<images/25.png, id=42, 452.4403pt x 453.94594pt>
+File: images/25.png Graphic file (type png)
+<use images/25.png>
+Package pdftex.def Info: images/25.png  used on input line 40.
+(pdftex.def)             Requested size: 500.484pt x 502.14737pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 40--41
+ []  
+ []
+
+[6 <./images/24.png>]
+<images/26.png, id=47, 447.17062pt x 449.42906pt>
+File: images/26.png Graphic file (type png)
+<use images/26.png>
+Package pdftex.def Info: images/26.png  used on input line 46.
+(pdftex.def)             Requested size: 500.484pt x 503.02107pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 46--47
+ []  
+ []
+
+[7 <./images/25.png>]
+<images/27.png, id=52, 252.19218pt x 327.47343pt>
+File: images/27.png Graphic file (type png)
+<use images/27.png>
+Package pdftex.def Info: images/27.png  used on input line 51.
+(pdftex.def)             Requested size: 500.484pt x 649.88847pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 51--52
+ []  
+ []
+
+[8 <./images/26.png>] [9 <./images/27.png>]
+<images/28.png, id=61, 880.79062pt x 401.24907pt>
+File: images/28.png Graphic file (type png)
+<use images/28.png>
+Package pdftex.def Info: images/28.png  used on input line 56.
+(pdftex.def)             Requested size: 500.484pt x 227.998pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 56--57
+ []  
+ []
+
+<images/29.png, id=62, 456.95718pt x 266.49562pt>
+File: images/29.png Graphic file (type png)
+<use images/29.png>
+Package pdftex.def Info: images/29.png  used on input line 65.
+(pdftex.def)             Requested size: 500.484pt x 291.88957pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 65--66
+ []  
+ []
+
+[10 <./images/28.png>]
+<images/30.png, id=67, 475.02469pt x 272.51813pt>
+File: images/30.png Graphic file (type png)
+<use images/30.png>
+Package pdftex.def Info: images/30.png  used on input line 70.
+(pdftex.def)             Requested size: 500.484pt x 287.13799pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 70--71
+ []  
+ []
+
+[11 <./images/29.png> <./images/30.png>]
+<images/42.png, id=74, 182.93344pt x 210.7875pt>
+File: images/42.png Graphic file (type png)
+<use images/42.png>
+Package pdftex.def Info: images/42.png  used on input line 75.
+(pdftex.def)             Requested size: 500.484pt x 576.7727pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 75--76
+ []  
+ []
+
+[12 <./images/42.png>]
+<images/10.png, id=79, 986.18437pt x 500.62032pt>
+File: images/10.png Graphic file (type png)
+<use images/10.png>
+Package pdftex.def Info: images/10.png  used on input line 82.
+(pdftex.def)             Requested size: 500.484pt x 254.06786pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 82--83
+ []  
+ []
+
+<images/43.png, id=80, 225.84375pt x 264.23718pt>
+File: images/43.png Graphic file (type png)
+<use images/43.png>
+Package pdftex.def Info: images/43.png  used on input line 87.
+(pdftex.def)             Requested size: 500.484pt x 585.6458pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 87--88
+ []  
+ []
+
+[13 <./images/10.png>]
+<images/44.png, id=85, 160.34906pt x 186.6975pt>
+File: images/44.png Graphic file (type png)
+<use images/44.png>
+Package pdftex.def Info: images/44.png  used on input line 93.
+(pdftex.def)             Requested size: 500.484pt x 582.73883pt.
+<images/45.png, id=86, 561.59813pt x 382.42876pt>
+File: images/45.png Graphic file (type png)
+<use images/45.png>
+Package pdftex.def Info: images/45.png  used on input line 94.
+(pdftex.def)             Requested size: 500.484pt x 340.80983pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 93--95
+ []  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 93--95
+ []  
+ []
+
+[14 <./images/43.png>] [15 <./images/44.png>]
+<images/11.png, id=95, 792.71156pt x 213.04594pt>
+File: images/11.png Graphic file (type png)
+<use images/11.png>
+Package pdftex.def Info: images/11.png  used on input line 99.
+(pdftex.def)             Requested size: 500.484pt x 134.50896pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 99--100
+ []  
+ []
+
+<images/46.png, id=96, 573.64313pt x 357.58594pt>
+File: images/46.png Graphic file (type png)
+<use images/46.png>
+Package pdftex.def Info: images/46.png  used on input line 106.
+(pdftex.def)             Requested size: 500.484pt x 311.98662pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 106--107
+ []  
+ []
+
+[16 <./images/45.png> <./images/11.png>]
+<images/13.png, id=102, 444.15938pt x 441.14813pt>
+File: images/13.png Graphic file (type png)
+<use images/13.png>
+Package pdftex.def Info: images/13.png  used on input line 112.
+(pdftex.def)             Requested size: 500.484pt x 497.09146pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 112--113
+ []  
+ []
+
+[17 <./images/46.png>]
+<images/47.png, id=108, 475.02469pt x 351.56343pt>
+File: images/47.png Graphic file (type png)
+<use images/47.png>
+Package pdftex.def Info: images/47.png  used on input line 117.
+(pdftex.def)             Requested size: 500.484pt x 370.42384pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 117--118
+ []  
+ []
+
+[18 <./images/13.png>]
+<images/48.png, id=113, 676.02562pt x 290.58563pt>
+File: images/48.png Graphic file (type png)
+<use images/48.png>
+Package pdftex.def Info: images/48.png  used on input line 122.
+(pdftex.def)             Requested size: 500.484pt x 215.13641pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 122--123
+ []  
+ []
+
+[19 <./images/47.png> <./images/48.png>]
+<images/16.png, id=119, 450.9347pt x 287.57437pt>
+File: images/16.png Graphic file (type png)
+<use images/16.png>
+Package pdftex.def Info: images/16.png  used on input line 132.
+(pdftex.def)             Requested size: 500.484pt x 319.18939pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 132--133
+ []  
+ []
+
+<images/17.png, id=120, 342.5297pt x 143.03438pt>
+File: images/17.png Graphic file (type png)
+<use images/17.png>
+Package pdftex.def Info: images/17.png  used on input line 137.
+(pdftex.def)             Requested size: 500.484pt x 209.00958pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 137--138
+ []  
+ []
+
+[20 <./images/16.png>]
+<images/18.png, id=125, 545.03625pt x 352.31625pt>
+File: images/18.png Graphic file (type png)
+<use images/18.png>
+Package pdftex.def Info: images/18.png  used on input line 142.
+(pdftex.def)             Requested size: 500.484pt x 323.51665pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 142--143
+ []  
+ []
+
+[21 <./images/17.png> <./images/18.png>]
+<images/19.png, id=131, 781.41937pt x 451.6875pt>
+File: images/19.png Graphic file (type png)
+<use images/19.png>
+Package pdftex.def Info: images/19.png  used on input line 147.
+(pdftex.def)             Requested size: 500.484pt x 289.29956pt.
+<images/20.png, id=132, 771.63281pt x 269.50688pt>
+File: images/20.png Graphic file (type png)
+<use images/20.png>
+Package pdftex.def Info: images/20.png  used on input line 148.
+(pdftex.def)             Requested size: 500.484pt x 174.80316pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 147--149
+ []  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 147--149
+ []  
+ []
+
+<images/33.png, id=133, 776.14969pt x 495.35063pt>
+File: images/33.png Graphic file (type png)
+<use images/33.png>
+Package pdftex.def Info: images/33.png  used on input line 154.
+(pdftex.def)             Requested size: 500.484pt x 319.41934pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 154--155
+ []  
+ []
+
+[22 <./images/19.png> <./images/20.png>]
+<images/34.png, id=139, 972.63374pt x 497.60907pt>
+File: images/34.png Graphic file (type png)
+<use images/34.png>
+Package pdftex.def Info: images/34.png  used on input line 159.
+(pdftex.def)             Requested size: 500.484pt x 256.04753pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 159--160
+ []  
+ []
+
+[23 <./images/33.png> <./images/34.png>]
+<images/35.png, id=146, 619.56468pt x 256.70906pt>
+File: images/35.png Graphic file (type png)
+<use images/35.png>
+Package pdftex.def Info: images/35.png  used on input line 164.
+(pdftex.def)             Requested size: 500.484pt x 207.36913pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 164--165
+ []  
+ []
+
+<images/36.png, id=147, 718.93594pt x 211.54031pt>
+File: images/36.png Graphic file (type png)
+<use images/36.png>
+Package pdftex.def Info: images/36.png  used on input line 169.
+(pdftex.def)             Requested size: 500.484pt x 147.267pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 169--170
+ []  
+ []
+
+<images/37.png, id=148, 424.58624pt x 492.33937pt>
+File: images/37.png Graphic file (type png)
+<use images/37.png>
+Package pdftex.def Info: images/37.png  used on input line 174.
+(pdftex.def)             Requested size: 500.484pt x 580.37694pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 174--175
+ []  
+ []
+
+[24 <./images/35.png> <./images/36.png>] [25 <./images/37.png>]
+<images/38.png, id=158, 782.925pt x 453.19313pt>
+File: images/38.png Graphic file (type png)
+<use images/38.png>
+Package pdftex.def Info: images/38.png  used on input line 179.
+(pdftex.def)             Requested size: 500.484pt x 289.70377pt.
+<images/39.png, id=159, 781.41937pt x 450.9347pt>
+File: images/39.png Graphic file (type png)
+<use images/39.png>
+Package pdftex.def Info: images/39.png  used on input line 180.
+(pdftex.def)             Requested size: 500.484pt x 288.8174pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 179--181
+ []  
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 179--181
+ []  
+ []
+
+) [26 <./images/38.png> <./images/39.png>]
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD III\Lab 01\build\Inf
+ormeLaboratorio04.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+
+("E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD III\Lab 01\build\sec
+tions/Task01.aux")) ) 
+Here is how much of TeX's memory you used:
+ 4092 strings out of 480790
+ 58409 string characters out of 2907046
+ 315665 words of memory out of 3000000
+ 20007 multiletter control sequences out of 15000+200000
+ 537266 words of font info for 41 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,5n,35p,619b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+bx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "E:\UPT EPIS 2020-II\Calidad y Pruebas de Software\UNIDAD III
+\Lab 01\build\InformeLaboratorio04.pdf" (28 pages, 998424 bytes).
+PDF statistics:
+ 176 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 181 words of extra memory for PDF output out of 10000 (max. 10000000)
+

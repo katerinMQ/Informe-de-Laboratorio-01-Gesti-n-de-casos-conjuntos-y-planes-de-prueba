@@ -1,0 +1,4 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Tarea 1: Comprensión de casos, conjuntos y planes de prueba}{1}%
+\contentsline {section}{\numberline {2}Tarea 2: Gestión de pruebas}{10}%
+\contentsline {section}{\numberline {3}Tarea 3: Autoría de pruebas}{20}%

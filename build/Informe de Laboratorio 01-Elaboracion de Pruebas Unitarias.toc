@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Parte 1: Creación de una prueba y generación del código}{1}%
+\contentsline {section}{\numberline {2}Comprobación de un cambio en el código }{3}%
+\contentsline {section}{\numberline {3}Extensión del intervalo de entradas}{4}%
+\contentsline {section}{\numberline {4}Agregue pruebas para casos excepcionales}{4}%
+\contentsline {section}{\numberline {5} Refactorizar el codigo en pruebas }{4}%
+\contentsline {section}{\numberline {6}Parte 2: Creación de una prueba unitaria utilizando un framework de pruebas (XUnit) }{5}%
+\contentsline {section}{\numberline {7}Crea una prueba }{5}%
